@@ -375,7 +375,7 @@
     {"type":"voice","From":"Mika","to":"Albedo"},
     {"type":"story","From":"Mika","to":"Lisa"},
     {"type":"story","From":"Mika","to":"Kaeya"},
-    {"type":"story","From":"Mika","to":"Albedo"}
+    {"type":"story","From":"Mika","to":"Albedo"},
     {"type":"voice","From":"Mona","to":"Jean"},
     {"type":"voice","From":"Mona","to":"Venti"},
     {"type":"voice","From":"Mona","to":"Lisa"},
