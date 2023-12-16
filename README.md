@@ -1,6 +1,6 @@
 # GenshinNetwork
-Final Project Repository for Artificial Intelligence and Research Methodology 
-created by: Tiffany.W, Jocelin.W, Filbert.F, Daniel.P
+Final Project Repository for Artificial Intelligence
+- created by: Tiffany.W, Jocelin.W, Filbert.F, Daniel.P
 # About
 ok so this repo contains a LOT of experiments lol. please ignore everything except for the final project folder.
 - BERTGenshin: NPL Using BERT for Genshin Impact Review Sentiment Analysis
