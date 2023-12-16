@@ -1,8 +1,8 @@
 # GenshinNetwork
-Final Project repository for Artificial Intelligence and Research Methodology 
-
+Final Project Repository for Artificial Intelligence and Research Methodology 
+created by: Tiffany.W, Jocelin.W, Filbert.F, Daniel.P
 # About
-ok so this repo contains a LOT of experiments lol.
+ok so this repo contains a LOT of experiments lol. please ignore everything except for the final project folder.
 - BERTGenshin: NPL Using BERT for Genshin Impact Review Sentiment Analysis
 - GenshinReview: preprocessing collection of reviews experiment
 - AIFINAL and genshinNetwork: GNN to classify character importance in their network
@@ -26,5 +26,3 @@ Our task is to use a pre-trained BERT model to conduct Sentiment Analysis of Gen
 
 # Results so far
 <img width="145" alt="image" src="https://github.com/Pandalmation/GenshinDeepLearning/assets/91600281/fa466b10-1043-4c3c-8b4b-09e52c19aa6c">
-
-
