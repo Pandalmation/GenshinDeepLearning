@@ -1,0 +1,2 @@
+#there's one more file supposedly in GenshinModel_save but the size is too big :<
+#unlucky you have to run the whole training lol
