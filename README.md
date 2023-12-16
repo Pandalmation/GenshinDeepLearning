@@ -1,4 +1,4 @@
-# GenshinNetwork
+# Sentiment Analysis on Genshin Impact Reviews with BERT
 Final Project Repository for Artificial Intelligence
 - created by: Tiffany.W, Jocelin.W, Filbert.F, Daniel.P
 # About
