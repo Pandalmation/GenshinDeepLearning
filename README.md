@@ -9,7 +9,7 @@ Inside the FinalProject folder:
 - GenshinReview.csv (cleaned 4200 dataset without stopword removal) 
 - ScriptGenshin.ipynb (to test the saved model)
 - GenshinModel_save (folder containing the saved model)
-Other files:
+## Other files used in the process:
 - output.csv (raw scraped 4k dataset)
 - sentimental_model.ipnyb (for sentimental analysis)
 - GenshinReviews1.csv (dataset with stopword removal for sentimental_model.ipnyb)
