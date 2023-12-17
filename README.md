@@ -23,4 +23,3 @@ Please pip install the following packages first before running the code:
 https://docs.google.com/document/d/17YzY8jhYLawIPg3yeTrP-JstdReMt9d5siwaStCksOs/edit?usp=sharing
 ## Video demo
 https://youtu.be/n9C1-EYMwr0
-
